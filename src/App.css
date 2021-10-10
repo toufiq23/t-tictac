@@ -43,3 +43,13 @@
 	box-sizing: border-box;
 	vertical-align: middle;
 }
+
+.footer {
+	display: flex;
+	align-items: center;
+	color: red;
+}
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+}

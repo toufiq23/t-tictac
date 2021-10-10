@@ -95,6 +95,13 @@ function App() {
 					}
 				</div>
 				<h2>{winner ? `Player ${currentPlayer} is a winner` : ""}</h2>
+			
+				<div className="footer">
+					<div className="container">
+						<h2>Thanks for your visit.</h2>
+						<h3>Created by M Toufiq ELAHI</h3>
+					</div> 
+				</div>
 			</header>
     </div>
   );
